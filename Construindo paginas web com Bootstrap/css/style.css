@@ -1,0 +1,54 @@
+.navbar{
+    background-color: #25194d;
+}
+body{
+    font: 18px Arial , sans-serif;
+    
+}
+.nav-link active{
+    color: white;
+}
+.container-fluid{
+    background-color: white;
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+ 
+}
+.bg-footer{
+    background-color: #25194d;
+    color: white;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background: #25194d;
+    color: white;
+    
+}
+.form input{
+    justify-content: center;
+    width: 40%;
+    margin: auto;
+    margin-bottom: 5%;
+    background-color: #25194d81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.form input:focus-visible{
+    background-color: #25194d;
+    color: white;
+}
+.com textarea{
+    margin-left: auto;
+    width: 60%;
+    margin: auto;
+    background-color: #25194d81;
+
+}
+.form input:focus-visible{
+    background-color: #25194d;
+    color: white;
+}
